@@ -1,6 +1,5 @@
 # TimeLineKiller
 一个可以关闭Windows时间线功能的脚本
-A script which allowed you to turn off the windows timeline
 ## 简介
 你是否还在为Windows的时间线功能而头疼？
 你是否想要保护自己的隐私不被他人所知？

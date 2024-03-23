@@ -1,4 +1,5 @@
 # TimelineKiller
+[简体中文](./README-CN.md)|[English](./README.md)
 A script which allowed you to turn off the windows timeline
 ## Introduction
 Are you still having a headache with the timeline feature of Windows?

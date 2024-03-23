@@ -1,2 +1,13 @@
-# TimeLineKiller
-A script which allowed you to turn off the windows timeline/一个可以关闭Windows时间线功能的脚本
+# TimelineKiller
+A script which allowed you to turn off the windows timeline
+## Introduction
+Are you still having a headache with the timeline feature of Windows?
+Do you want to protect your privacy from others?
+Give this script a try!
+It allows you to turn off annoying timelines and gain your own privacy!
+## Features
+- Close the timeline
+- Turn it back on
+## How to use
+Download the releases, unzip them, and run 'TimelineKiller.bat'
+
